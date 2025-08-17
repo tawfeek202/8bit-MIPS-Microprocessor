@@ -15,5 +15,3 @@ It is designed as an educational project to demonstrate the fundamental building
 - Simple testbench for simulation
 
 ---
-
-## 🛠️ Project Structure
